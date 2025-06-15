@@ -78,7 +78,7 @@
   <tr>
     <td align="center" width="50%">
       <a href="https://cursor.sh/" target="_blank" rel="noreferrer">
-        <img src="https://cursor.sh/brand/logo.png" alt="Cursor Logo" width="60" style="margin-bottom:10px;"><br/>
+        <img src="./assets/cursor-icon.jpeg" alt="Cursor Logo" width="60" style="margin-bottom:10px;"><br/>
         <strong>Cursor Power User</strong>
       </a>
       <p><em>Long-term member, leveraging AI for<br/>enhanced coding efficiency and productivity.</em></p>
@@ -86,7 +86,7 @@
     <td align="center" width="50%">
       <a href="https://dify.ai/" target="_blank" rel="noreferrer">
         <!-- 假设 Dify 的 Logo (你需要找到一个合适的 Dify logo URL) -->
-        <img src="https://avatars.githubusercontent.com/u/125632115?s=200&v=4" alt="Dify.AI Logo" width="60" style="margin-bottom:10px;"><br/>
+        <img src="./assets/dify-icon.png" alt="Dify.AI Logo" width="60" style="margin-bottom:10px;"><br/>
         <strong>Dify.AI Plugin Developer</strong>
       </a>
       <p><em>Contributing to the Dify ecosystem by<br/>developing and enhancing plugins.</em></p>
