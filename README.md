@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Bikeread!</h1>
 
 <p align="center">
-  <em>Senior Full-Stack Engineer with 13+ years of experience building enterprise solutions</em>
+  <em>Senior Full-Stack Engineer with 10+ years of experience building enterprise solutions</em>
 </p>
 <p align="center">
   <em>Expert in Java Spring Boot, Vue.js, and AI applications | Team Leader | Open Source Contributor</em>
@@ -9,7 +9,7 @@
 
 ## 💡 About Me
 
-> I'm a seasoned software engineer who transforms complex business requirements into scalable, high-performance enterprise systems. With 13+ years in the field and 3 years of team leadership experience, I've delivered $20M+ revenue projects for Fortune 500 clients.
+> I'm a seasoned software engineer who transforms complex business requirements into scalable, high-performance enterprise systems. With 10+ years in the field and 3 years of team leadership experience, I've delivered $20M+ revenue projects for Fortune 500 clients.
 
 - 💻 **Core Stack**: **Java Spring Boot**, **Vue.js**, **Python**, **Android** - building full-stack enterprise applications
 - 🏢 **Enterprise Focus**: ERP, CRM, MES, OA systems with proven track record in finance, healthcare, and manufacturing
