@@ -94,31 +94,3 @@
     </a>
   </p>
 </div>
-
-## 🚀 Key Achievements & Contributions
-
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://cursor.sh/" target="_blank">
-        <img src="./assets/cursor-icon.jpeg" alt="Cursor Logo" width="80" style="border-radius: 50%"><br>
-        <strong>Cursor Power User</strong>
-      </a>
-      <p>Long-term member, leveraging AI for enhanced coding efficiency and productivity.</p>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://dify.ai/" target="_blank">
-        <img src="./assets/dify-icon.png" alt="Dify.AI Logo" width="80" style="border-radius: 50%"><br>
-        <strong>Dify.AI Plugin Developer</strong>
-      </a>
-      <p>Contributing to the Dify ecosystem by developing and enhancing plugins.</p>
-    </td>
-  </tr>
-</table>
-
----
-
-<p align="center">
-  <em>Building scalable enterprise solutions that drive business success</em><br>
-  ⭐️ From <a href="https://github.com/bikeread" target="_blank">Frank (bikeread)</a>
-</p>
