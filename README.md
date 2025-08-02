@@ -41,7 +41,7 @@
   </a>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bikeread&layout=compact&theme=tokyonight" alt="Frank's Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bikeread&layout=compact&theme=tokyonight&cache_seconds=1800&langs_count=8" alt="Frank's Top Languages" />
   </a>
   
   <a href="https://streak-stats.demolab.com/?user=bikeread&theme=tokyonight">
