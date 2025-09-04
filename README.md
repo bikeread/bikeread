@@ -1,4 +1,4 @@
-# 🧙‍♂️ The Wandering Code Wizard | Self-Taught Cultivation Journey
+#  The Wandering Code Wizard | Self-Taught Cultivation Journey
 
 <div align="center">
   <em>13 years of self-taught coding enlightenment | AI Realm Specialist | Rogue Programmer</em>
@@ -10,16 +10,16 @@
 
 ---
 
-## 🌟 The Cultivation Path
+##  The Cultivation Path
 
 > A wandering developer who mastered the ancient arts of full-stack cultivation through pure determination. No formal training, just relentless pursuit of coding enlightenment across the digital realms.
 
-🏮 **Sacred Journey**: 13 years of self-taught mastery  
-⚔️ **Specialization**: AI Application Full-Stack Solutions Architect  
-🎯 **Philosophy**: From code conception to production deployment - the complete way  
-🌟 **Guild Achievements**: Leading developer teams, 40+ projects annually  
+ **Sacred Journey**: 13 years of self-taught mastery  
+ **Specialization**: AI Application Full-Stack Solutions Architect  
+ **Philosophy**: From code conception to production deployment - the complete way  
+ **Guild Achievements**: Leading developer teams, 40+ projects annually  
 
-## 🌙 Night Owl Debugging Philosophy
+##  Night Owl Debugging Philosophy
 
 <table>
 <tr>
@@ -28,10 +28,10 @@
 *"编程江湖十载路，一路走来一路秃"*  
 *Ten years wandering the coding realm, growing wise but losing hair*
 
-- 🦉 **Peak Hours**: Deep night debugging sessions
-- 🔍 **Debugging Zen**: Meditation through error logs
-- 🎯 **Mission**: Transforming complex business needs into elegant solutions
-- 🌟 **Calling**: Sharing knowledge with fellow cultivators
+-  **Peak Hours**: Deep night debugging sessions
+-  **Debugging Zen**: Meditation through error logs
+-  **Mission**: Transforming complex business needs into elegant solutions
+-  **Calling**: Sharing knowledge with fellow cultivators
 
 </td>
 <td width="45%" align="center" valign="middle">
