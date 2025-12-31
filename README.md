@@ -36,7 +36,7 @@
 </td>
 <td width="45%" align="center" valign="middle">
 
-<img src="https://github-readme-stats.vercel.app/api?username=bikeread&show_icons=true&theme=tokyonight&count_private=true&hide_rank=true&custom_title=Cultivation%20Progress" alt="Cultivation Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bikeread&theme=tokyonight" alt="Cultivation Stats" />
 
 </td>
 </tr>
