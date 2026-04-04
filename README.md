@@ -1,7 +1,5 @@
 # Bikeread
 
-AI Application Full-Stack Developer
-
 Self-taught, hands-on, focused on building and shipping AI applications end to end.
 
 <p align="center">
